@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schwartz;Olivia;;;
+FN:Olivia Schwartz
+ORG:Montana State University
+ADR;TYPE=WORK:
+TITLE:Graduate Research Assistant
+TEL;TYPE=CELL:5098506015
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:olivia@baschwar.com
+URL;TYPE=Digital Business Card:https://livschwar.github.io/os_card/
+URL:
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/o-schwartz/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100567097
+END:VCARD
